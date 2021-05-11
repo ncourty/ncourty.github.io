@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VISUAL SERVOING ; AUTOMATIC CINEMATOGRAPHY ; ANIMATION ; AUTOMATIC CAMERA MOTION | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/tags/visual-servoing-automatic-cinematography-animation-automatic-camera-motion/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/tags/visual-servoing-automatic-cinematography-animation-automatic-camera-motion/index.xml" rel="self" type="application/rss+xml" />
+    <description>VISUAL SERVOING ; AUTOMATIC CINEMATOGRAPHY ; ANIMATION ; AUTOMATIC CAMERA MOTION</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>VISUAL SERVOING ; AUTOMATIC CINEMATOGRAPHY ; ANIMATION ; AUTOMATIC CAMERA MOTION</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/tags/visual-servoing-automatic-cinematography-animation-automatic-camera-motion/</link>
+    </image>
+    
+    <item>
+      <title>Visual Servoing in Computer Animation What You Want to See is Really What You Get !</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/marchand-inria-00072754/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/marchand-inria-00072754/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

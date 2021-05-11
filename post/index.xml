@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/post/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 May 2021 15:13:54 +0200</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/post/</link>
+    </image>
+    
+    <item>
+      <title>2 new publications at ICML 2021</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/post/icml21/</link>
+      <pubDate>Tue, 11 May 2021 15:13:54 +0200</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/post/icml21/</guid>
+      <description>&lt;p&gt;Two of our papers have made it to ICML 21 !&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unbalanced minibatch Optimal Transport; applications to Domain Adaptation 
+&lt;a href=&#34;https://arxiv.org/abs/2103.03606&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Online Graph Dictionary Learning&amp;quot; 
+&lt;a href=&#34;https://arxiv.org/pdf/2102.06555.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arxiv Link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>POT has made it to JMLR</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/post/pot_jmlr/</link>
+      <pubDate>Tue, 11 May 2021 15:13:30 +0200</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/post/pot_jmlr/</guid>
+      <description>&lt;p&gt;POT (The Python Optimal Transport toolbox) is a fantastic library for coding optimal transport problems in Python.
+The associated technical publication has been published in the Software Track of JMLR.
+Please check
+[
+&lt;a href=&#34;https://pythonot.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the POT website&lt;/a&gt;].&lt;br&gt;
+&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;Spoiler Alert: new features are coming out soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New publication at Neurips 2020 : Co-Optimal Transport</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/post/neurips2020/</link>
+      <pubDate>Fri, 30 Oct 2020 01:40:12 +0100</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/post/neurips2020/</guid>
+      <description>&lt;p&gt;Optimal transport (OT) is a powerful geometric and probabilistic tool for finding correspondences and measuring similarity between two distributions. Yet, its original formulation relies on the existence of a cost function between the samples of the two distributions, which makes it impractical for comparing data distributions supported on different topological spaces. To circumvent this limitation, we propose a novel OT problem, named COOT for CO-Optimal Transport, that aims to simultaneously optimize two transport maps between both samples and features. This is different from other approaches that either discard the individual features by focussing on pairwise distances (e.g. Gromov-Wasserstein) or need to model explicitly the relations between the features. COOT leads to interpretable correspondences between both samples and feature representations and holds metric properties. We provide a thorough theoretical analysis of our framework and establish rich connections with the Gromov-Wasserstein distance. We demonstrate its versatility with two machine learning applications in heterogeneous domain adaptation and co-clustering/data summarization, where COOT leads to performance improvements over the competing state-of-the-art methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ACCV 2020</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/post/accv2020/</link>
+      <pubDate>Sat, 10 Oct 2020 01:38:42 +0100</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/post/accv2020/</guid>
+      <description>&lt;p&gt;One paper accepted at ACCV 2020 on 
+&lt;a href=&#34;https://www.researchgate.net/publication/344325552_Contextual_Semantic_Interpretability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Contextual Semantic Interpretability&lt;/a&gt;, with Diego Marcos, Ruth Fong, Sylvain Lobry, Rémi Flamary and Devis Tuia.&lt;/p&gt;
+&lt;p&gt;Paper abstract:
+Convolutional neural networks (CNN) are known to learn an image representation that captures concepts relevant to the task, but do so in an implicit way that hampers model interpretability. However, one could argue that such a representation is hidden in the neurons and can be made explicit by teaching the model to recognize semantically interpretable attributes that are present in the scene. We call such an intermediate layer a \emph{semantic bottleneck}. Once the attributes are learned, they can be re-combined to reach the final decision and provide both an accurate prediction and an explicit reasoning behind the CNN decision. In this paper, we look into semantic bottlenecks that capture context: we want attributes to be in groups of a few meaningful elements and participate jointly to the final decision. We use a two-layer semantic bottleneck that gathers attributes into interpretable, sparse groups, allowing them contribute differently to the final output depending on the context. We test our contextual semantic interpretable bottleneck (CSIB) on the task of landscape scenicness estimation and train the semantic interpretable bottleneck using an auxiliary database (SUN Attributes). Our model yields in predictions as accurate as a non-interpretable baseline when applied to a real-world test set of Flickr images, all while providing clear and interpretable explanations for each prediction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper on Fused Gromov-Wasserstein published in Algorithms</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/post/algorithms/</link>
+      <pubDate>Thu, 01 Oct 2020 01:01:39 +0100</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/post/algorithms/</guid>
+      <description>&lt;p&gt;Our in-depth paper on the Fused-Gromov Wasserstein is published in a special issue of MDPI Algorithms on graphs. And it made the cover ! Check the
+
+&lt;a href=&#34;https://www.mdpi.com/1999-4893/13/9?utm_campaign=releaseissue_algorithms&amp;amp;utm_medium=email&amp;amp;utm_source=releaseissue&amp;amp;utm_term=coverlink&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link to the special issue&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at AISTATS 2020 in (virtual) Kyoto</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/post/aistats2020/</link>
+      <pubDate>Tue, 01 Sep 2020 01:01:55 +0100</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/post/aistats2020/</guid>
+      <description>&lt;p&gt;The paper &amp;lsquo;Learning with minibatch Wasserstein : asymptotic and gradient properties&amp;rsquo; from my Phd student Kilian Fatras is featured in the accepted of AISTATS 2020 (joint work with Younes Zine, Rémi Flamary and Rémi Gribonval). Kilian has written a nice 
+&lt;a href=&#34;https://towardsdatascience.com/learning-with-minibatch-wasserstein-d87dcf52efb5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog entry&lt;/a&gt; on it. Be sure to check it out !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Casa 2019 Best paper award !</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/post/casa2019/</link>
+      <pubDate>Sun, 01 Mar 2020 01:06:30 +0100</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/post/casa2019/</guid>
+      <description>&lt;p&gt;The paper &amp;lsquo;Skeletal mesh animation driven by few positional constraints
+&#39; from my former PhD student Thibaut LeNaour was selected as Best paper award for the conference 
+&lt;a href=&#34;https://casa2019.sciencesconf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CASA 2019&lt;/a&gt;.
+Check the 
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/cav.1900&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; to the paper.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

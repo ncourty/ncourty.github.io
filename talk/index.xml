@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/talk/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/talk/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning Summer School in Saint-Etienne</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/talk/mlss2021/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/talk/mlss2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Course in the thematic month: Mathematics for Signals, Images and Structured Data</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/talk/cirm2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/talk/cirm2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VISUM 2020 DataScience summer school</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/talk/visum/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/talk/visum/</guid>
+      <description>&lt;p&gt;I gave a course on Optimal Transport and Computer Vision in this summer school&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NCCV - Keynote Speaker</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/talk/nccv/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/talk/nccv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

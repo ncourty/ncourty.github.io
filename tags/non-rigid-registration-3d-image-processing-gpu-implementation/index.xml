@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Non-rigid registration 3D image processing GPU implementation | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/tags/non-rigid-registration-3d-image-processing-gpu-implementation/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/tags/non-rigid-registration-3d-image-processing-gpu-implementation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Non-rigid registration 3D image processing GPU implementation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Non-rigid registration 3D image processing GPU implementation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/tags/non-rigid-registration-3d-image-processing-gpu-implementation/</link>
+    </image>
+    
+    <item>
+      <title>Accelerating 3D Non-Rigid Registration using Graphics Hardware</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-inria-00218224/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-inria-00218224/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

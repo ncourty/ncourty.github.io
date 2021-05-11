@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sébastien Lefèvre | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/sebastien-lefevre/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/sebastien-lefevre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sébastien Lefèvre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Sébastien Lefèvre</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/sebastien-lefevre/</link>
+    </image>
+    
+    <item>
+      <title>End-to-end Learning for Early Classification of Time Series</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/ruwurm-hal-02174314/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/ruwurm-hal-02174314/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Sparse Hilbert Schmidt Independence Criterion and Surrogate-Kernel-Based Feature Selection for Hyperspectral Image Classification</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/damodaran-hal-01447452/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/damodaran-hal-01447452/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new penalisation term for image retrieval in clique neural networks</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/huet-hal-01320024/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/huet-hal-01320024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Classifier Selection Approach for Hyperspectral Image Classification</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/damodaran-hal-01320020/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/damodaran-hal-01320020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An end-member based ordering relation for the morphological description of hyperspectral images</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/aptoula-hal-00998256/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/aptoula-hal-00998256/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PerTurbo manifold learning algorithm for weakly labelled hyperspectral image classification</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/chapel-hal-00998258/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/chapel-hal-00998258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A classwise supervised ordering approach for morphology based hyperspectral image classification</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00763490/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00763490/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLASSWISE HYPERSPECTRAL IMAGE CLASSIFICATION WITH PERTURBO METHOD</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/chapel-hal-00706709/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/chapel-hal-00706709/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

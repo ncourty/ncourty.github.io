@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/publication_types/2/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>2</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>POT: Python Optimal Transport</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/jmlr-v-22-20-451/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/jmlr-v-22-20-451/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinematics in the metric space</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-02435993/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-02435993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wasserstein Discriminant Analysis</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/flamary-hal-01377528/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/flamary-hal-01377528/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112776/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112776/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Sparse Hilbert Schmidt Independence Criterion and Surrogate-Kernel-Based Feature Selection for Hyperspectral Image Classification</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/damodaran-hal-01447452/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/damodaran-hal-01447452/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112785/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112785/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112786/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112786/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Anomaly Detection and Spectral Unmixing for Planetary Hyperspectral Images</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/nakhostin-hal-01377230/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/nakhostin-hal-01377230/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01377220/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01377220/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiclass feature learning for hyperspectral image classification: sparse and hierarchical solutions</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/tuia-hal-01103078/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/tuia-hal-01103078/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAGA: sparse and geometry-aware non-negative matrix factorization through non-linear local embedding</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02092380/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02092380/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAGA: Sparse And Geometry-Aware non-negative matrix factorization through non-linear local embedding</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01018683/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01018683/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal crowd editing</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904008/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PerTurbo manifold learning algorithm for weakly labelled hyperspectral image classification</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/chapel-hal-00998258/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/chapel-hal-00998258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the AGORASET dataset : assessing for the quality of crowd video analysis methods</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01102973/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01102973/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation des relations spatiales pour la reconstruction de trajectoires de marqueurs issues de la capture de mouvement</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01164455/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01164455/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle swarm control</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904044/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904044/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised dense crowd detection by multiscale texture analysis</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/antoine-hal-00904210/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/antoine-hal-00904210/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal coupling with the 3D&#43;t motion Laplacian</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00861779/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00861779/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cinématique guidée par les distances</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00762919/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00762919/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SignCom System for Data-Driven Animation of Interactive Virtual Signers : Methodology and Evaluation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00664705/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00664705/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional Stochastic Simulation for Character Animation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00493340/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00493340/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion Compression using Principal Geodesics Analysis</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/tournier-inria-00384213/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/tournier-inria-00384213/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating 3D Non-Rigid Registration using Graphics Hardware</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-inria-00218224/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-inria-00218224/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd Motion Capture</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00493381/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00493381/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal alignment of communicative gesture sequences</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00493405/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00493405/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Agent for Deaf Signing Gestures</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00494241/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00494241/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling a camera in a virtual environment.</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/marchand-inria-00352095/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/marchand-inria-00352095/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigation et controle d&#39;une caméra dans un environnement virtuel: une approche rérencée image.</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-inria-00352121/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-inria-00352121/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

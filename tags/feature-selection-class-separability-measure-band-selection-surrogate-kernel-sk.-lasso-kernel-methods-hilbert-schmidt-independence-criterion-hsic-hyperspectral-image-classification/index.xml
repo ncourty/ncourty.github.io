@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feature selection ;  class separability measure ;  Band selection ;  surrogate kernel (SK). ;  LASSO ;  kernel methods ;  Hilbert Schmidt independence criterion (HSIC) ;  hyperspectral image classification | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/tags/feature-selection-class-separability-measure-band-selection-surrogate-kernel-sk.-lasso-kernel-methods-hilbert-schmidt-independence-criterion-hsic-hyperspectral-image-classification/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/tags/feature-selection-class-separability-measure-band-selection-surrogate-kernel-sk.-lasso-kernel-methods-hilbert-schmidt-independence-criterion-hsic-hyperspectral-image-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>feature selection ;  class separability measure ;  Band selection ;  surrogate kernel (SK). ;  LASSO ;  kernel methods ;  Hilbert Schmidt independence criterion (HSIC) ;  hyperspectral image classification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>feature selection ;  class separability measure ;  Band selection ;  surrogate kernel (SK). ;  LASSO ;  kernel methods ;  Hilbert Schmidt independence criterion (HSIC) ;  hyperspectral image classification</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/tags/feature-selection-class-separability-measure-band-selection-surrogate-kernel-sk.-lasso-kernel-methods-hilbert-schmidt-independence-criterion-hsic-hyperspectral-image-classification/</link>
+    </image>
+    
+    <item>
+      <title> Sparse Hilbert Schmidt Independence Criterion and Surrogate-Kernel-Based Feature Selection for Hyperspectral Image Classification</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/damodaran-hal-01447452/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/damodaran-hal-01447452/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

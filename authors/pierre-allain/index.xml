@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre Allain | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/pierre-allain/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/pierre-allain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pierre Allain</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Pierre Allain</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/pierre-allain/</link>
+    </image>
+    
+    <item>
+      <title>Optimal crowd editing</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904008/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the AGORASET dataset : assessing for the quality of crowd video analysis methods</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01102973/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01102973/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle swarm control</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904044/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904044/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGORASET: a dataset for crowd video analysis</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904216/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904216/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Control of Lagrangian Data</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00675824/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00675824/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd Flow Characterization with Optimal Control Theory</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00493443/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00493443/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

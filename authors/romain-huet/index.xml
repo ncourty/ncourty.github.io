@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Romain Huet | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/romain-huet/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/romain-huet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Romain Huet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Romain Huet</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/romain-huet/</link>
+    </image>
+    
+    <item>
+      <title>A new penalisation term for image retrieval in clique neural networks</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/huet-hal-01320024/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/huet-hal-01320024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

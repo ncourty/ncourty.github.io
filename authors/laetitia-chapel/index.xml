@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laetitia Chapel | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/laetitia-chapel/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/laetitia-chapel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laetitia Chapel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Laetitia Chapel</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/laetitia-chapel/</link>
+    </image>
+    
+    <item>
+      <title>POT: Python Optimal Transport</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/jmlr-v-22-20-451/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/jmlr-v-22-20-451/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time Series Alignment with Global Invariances</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/vayer-hal-02473959/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/vayer-hal-02473959/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sliced Gromov-Wasserstein</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/vayer-hal-02174309/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/vayer-hal-02174309/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fused Gromov-Wasserstein distance for structured objects: theoretical foundations and mathematical properties</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/vayer-hal-02174316/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/vayer-hal-02174316/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for structured data with application on graphs</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/vayer-hal-02174322/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/vayer-hal-02174322/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PerTurbo manifold learning algorithm for weakly labelled hyperspectral image classification</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/chapel-hal-00998258/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/chapel-hal-00998258/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLASSWISE HYPERSPECTRAL IMAGE CLASSIFICATION WITH PERTURBO METHOD</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/chapel-hal-00706709/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/chapel-hal-00706709/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

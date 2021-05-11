@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Körner | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/marco-korner/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/marco-korner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marco Körner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Marco Körner</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/marco-korner/</link>
+    </image>
+    
+    <item>
+      <title>End-to-end Learning for Early Classification of Time Series</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/ruwurm-hal-02174314/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/ruwurm-hal-02174314/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

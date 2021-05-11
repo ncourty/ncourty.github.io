@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index Terms-Hyperspectral image classification ; Mul- tiple classifier system ; Classifier selection ; Classifier combi- nation ; Ensemble learning | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/tags/index-terms-hyperspectral-image-classification-mul-tiple-classifier-system-classifier-selection-classifier-combi-nation-ensemble-learning/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/tags/index-terms-hyperspectral-image-classification-mul-tiple-classifier-system-classifier-selection-classifier-combi-nation-ensemble-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Index Terms-Hyperspectral image classification ; Mul- tiple classifier system ; Classifier selection ; Classifier combi- nation ; Ensemble learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Index Terms-Hyperspectral image classification ; Mul- tiple classifier system ; Classifier selection ; Classifier combi- nation ; Ensemble learning</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/tags/index-terms-hyperspectral-image-classification-mul-tiple-classifier-system-classifier-selection-classifier-combi-nation-ensemble-learning/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Classifier Selection Approach for Hyperspectral Image Classification</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/damodaran-hal-01320020/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/damodaran-hal-01320020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

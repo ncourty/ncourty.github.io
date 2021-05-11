@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sylvie Gibet | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/sylvie-gibet/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/sylvie-gibet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sylvie Gibet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Sylvie Gibet</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/sylvie-gibet/</link>
+    </image>
+    
+    <item>
+      <title>Kinematics in the metric space</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-02435993/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-02435993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinematic driven by distances</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01838784/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01838784/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time mesh animation from low dimensional positional constraints</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01834714/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01834714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation des relations spatiales pour la reconstruction de trajectoires de marqueurs issues de la capture de mouvement</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01164455/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01164455/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal coupling with the 3D&#43;t motion Laplacian</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00861779/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00861779/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Motion retrieval with the distance input space</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00762922/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00762922/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cinématique guidée par les distances</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00762919/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00762919/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SignCom System for Data-Driven Animation of Interactive Virtual Signers : Methodology and Evaluation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00664705/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00664705/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why is the Creation of a Virtual Signer Challenging Computer Animation ?</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00516624/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00516624/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Combined Semantic and Motion Capture Database for Real-Time Sign Language Synthesis</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/awad-hal-00493426/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/awad-hal-00493426/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Database Architecture For Real-Time Motion Retrieval</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/awad-hal-00493413/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/awad-hal-00493413/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating data-driven style transformation for gesturing embodied agents</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00494124/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00494124/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agent virtuel signeur - Aide à la communication pour personnes sourdes</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/gorce-hal-00503082/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/gorce-hal-00503082/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gesture in Human-Computer Interaction and Simulation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00501640/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00501640/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal alignment of communicative gesture sequences</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00493405/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00493405/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Agent for Deaf Signing Gestures</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00494241/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00494241/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Captured Motion Data Processing for Real Time Synthesis of Sign Language</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00515185/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00515185/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

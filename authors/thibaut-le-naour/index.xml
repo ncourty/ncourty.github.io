@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thibaut Le Naour | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/thibaut-le-naour/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/thibaut-le-naour/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thibaut Le Naour</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Thibaut Le Naour</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/thibaut-le-naour/</link>
+    </image>
+    
+    <item>
+      <title>Kinematics in the metric space</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-02435993/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-02435993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kinematic driven by distances</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01838784/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01838784/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time mesh animation from low dimensional positional constraints</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01834714/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01834714/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilisation des relations spatiales pour la reconstruction de trajectoires de marqueurs issues de la capture de mouvement</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01164455/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-01164455/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal coupling with the 3D&#43;t motion Laplacian</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00861779/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00861779/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Motion retrieval with the distance input space</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00762922/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00762922/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cinématique guidée par les distances</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00762919/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lenaour-hal-00762919/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SignCom System for Data-Driven Animation of Interactive Virtual Signers : Methodology and Evaluation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00664705/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00664705/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Combined Semantic and Motion Capture Database for Real-Time Sign Language Synthesis</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/awad-hal-00493426/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/awad-hal-00493426/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alain Rakotomamonjy | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/alain-rakotomamonjy/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/alain-rakotomamonjy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alain Rakotomamonjy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Alain Rakotomamonjy</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/alain-rakotomamonjy/</link>
+    </image>
+    
+    <item>
+      <title>POT: Python Optimal Transport</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/jmlr-v-22-20-451/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/jmlr-v-22-20-451/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wasserstein Discriminant Analysis</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/flamary-hal-01377528/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/flamary-hal-01377528/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dissimilarity Measure Machines</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/rakotomamonjy-hal-01717940/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/rakotomamonjy-hal-01717940/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint distribution optimal transportation for domain adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01620589/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01620589/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112776/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112776/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112785/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112785/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112786/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-02112786/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01170705/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01170705/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01377220/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01377220/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized conditional gradient: analysis of convergence and applications</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/rakotomamonjy-hal-01217870/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/rakotomamonjy-hal-01217870/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal transport for Domain adaptation</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01103073/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01103073/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal transport with Laplacian regularization</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/flamary-hal-01103076/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/flamary-hal-01103076/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

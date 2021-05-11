@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diego Marcos | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/diego-marcos/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/diego-marcos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diego Marcos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Diego Marcos</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/diego-marcos/</link>
+    </image>
+    
+    <item>
+      <title>Detecting Animals in Repeated UAV Image Acquisitions by Matching CNN Activations with Optimal Transport</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/kellenberger-hal-02174328/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/kellenberger-hal-02174328/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

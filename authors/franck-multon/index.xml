@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Franck Multon | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/franck-multon/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/franck-multon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Franck Multon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Franck Multon</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/franck-multon/</link>
+    </image>
+    
+    <item>
+      <title>Agent virtuel signeur - Aide à la communication pour personnes sourdes</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/gorce-hal-00503082/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/gorce-hal-00503082/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal alignment of communicative gesture sequences</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00493405/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00493405/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Agent for Deaf Signing Gestures</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00494241/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/gibet-hal-00494241/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Captured Motion Data Processing for Real Time Synthesis of Sign Language</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00515185/</link>
+      <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/heloir-hal-00515185/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

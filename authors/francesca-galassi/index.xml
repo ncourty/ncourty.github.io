@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesca Galassi | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/francesca-galassi/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/francesca-galassi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesca Galassi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Francesca Galassi</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/francesca-galassi/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Domain Adaptation with Optimal Transport in multi-site segmentation of Multiple Sclerosis lesions from MRI data</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/ackaouy-hal-02317028/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/ackaouy-hal-02317028/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

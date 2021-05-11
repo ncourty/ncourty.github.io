@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Corpetti | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/thomas-corpetti/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/thomas-corpetti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Corpetti</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Thomas Corpetti</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/thomas-corpetti/</link>
+    </image>
+    
+    <item>
+      <title>Extraction of urban vegetation with Pleiades multiangular images</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/lefebvre-hal-02384677/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/lefebvre-hal-02384677/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Planetary Unmixing with Optimal Transport</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/nakhostin-hal-01377236/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/nakhostin-hal-01377236/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Data Fusion in Remote Sensing</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01377234/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01377234/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Anomaly Detection and Spectral Unmixing for Planetary Hyperspectral Images</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/nakhostin-hal-01377230/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/nakhostin-hal-01377230/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal crowd editing</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904008/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the AGORASET dataset : assessing for the quality of crowd video analysis methods</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01102973/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-01102973/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle swarm control</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904044/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904044/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoring urban transformation in the old foreign concessions of Shanghai from 1987 to 2012</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/antoine-hal-00861694/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/antoine-hal-00861694/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AGORASET: a dataset for crowd video analysis</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904216/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00904216/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continuous Control of Lagrangian Data</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00675824/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00675824/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd Flow Characterization with Optimal Control Theory</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00493443/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/allain-hal-00493443/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Driven Animation of Crowds</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00494248/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00494248/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd Motion Capture</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00493381/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/courty-hal-00493381/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

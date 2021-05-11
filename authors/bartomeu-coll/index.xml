@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bartomeu Coll | Nicolas Courty Hompepage</title>
+    <link>https://people.irisa.fr/Nicolas.Courty/authors/bartomeu-coll/</link>
+      <atom:link href="https://people.irisa.fr/Nicolas.Courty/authors/bartomeu-coll/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bartomeu Coll</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://people.irisa.fr/Nicolas.Courty/images/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_2.png</url>
+      <title>Bartomeu Coll</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/authors/bartomeu-coll/</link>
+    </image>
+    
+    <item>
+      <title>HYPERSPECTRAL AND MULTISPECTRAL WASSERSTEIN BARYCENTER FOR IMAGE FUSION</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/mifdal-hal-01620601/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/mifdal-hal-01620601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral and multispectral image fusion based on optimal transport</title>
+      <link>https://people.irisa.fr/Nicolas.Courty/publication/mifdal-hal-01438955/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://people.irisa.fr/Nicolas.Courty/publication/mifdal-hal-01438955/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
