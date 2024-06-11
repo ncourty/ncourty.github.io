@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Professor
+title: Nicolas Courty
 
 # Full name (for SEO)
 first_name: Nicolas
