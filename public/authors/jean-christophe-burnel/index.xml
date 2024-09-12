@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean-Christophe Burnel | Nicole Paul</title>
+    <link>http://localhost:1313/authors/jean-christophe-burnel/</link>
+      <atom:link href="http://localhost:1313/authors/jean-christophe-burnel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean-Christophe Burnel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Jean-Christophe Burnel</title>
+      <link>http://localhost:1313/authors/jean-christophe-burnel/</link>
+    </image>
+    
+    <item>
+      <title>A Cycle GAN Approach for Heterogeneous Domain Adaptation in Land Use Classification</title>
+      <link>http://localhost:1313/publication/voreiter-hal-02537135/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/voreiter-hal-02537135/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generating Natural Adversarial Hyperspectral examples with a modified Wasserstein GAN</title>
+      <link>http://localhost:1313/publication/burnel-hal-02447625/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/burnel-hal-02447625/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sébastien Lefèvre | Nicole Paul</title>
+    <link>http://localhost:1313/authors/sebastien-lefevre/</link>
+      <atom:link href="http://localhost:1313/authors/sebastien-lefevre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sébastien Lefèvre</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Sébastien Lefèvre</title>
+      <link>http://localhost:1313/authors/sebastien-lefevre/</link>
+    </image>
+    
+    <item>
+      <title> Sparse Hilbert Schmidt Independence Criterion and Surrogate-Kernel-Based Feature Selection for Hyperspectral Image Classification</title>
+      <link>http://localhost:1313/publication/damodaran-hal-01447452/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/damodaran-hal-01447452/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new penalisation term for image retrieval in clique neural networks</title>
+      <link>http://localhost:1313/publication/huet-hal-01320024/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/huet-hal-01320024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Classifier Selection Approach for Hyperspectral Image Classification</title>
+      <link>http://localhost:1313/publication/damodaran-hal-01320020/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/damodaran-hal-01320020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An end-member based ordering relation for the morphological description of hyperspectral images</title>
+      <link>http://localhost:1313/publication/aptoula-hal-00998256/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/aptoula-hal-00998256/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PerTurbo manifold learning algorithm for weakly labelled hyperspectral image classification</title>
+      <link>http://localhost:1313/publication/chapel-hal-00998258/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chapel-hal-00998258/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

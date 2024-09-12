@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liva Ralaivola | Nicole Paul</title>
+    <link>http://localhost:1313/authors/liva-ralaivola/</link>
+      <atom:link href="http://localhost:1313/authors/liva-ralaivola/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liva Ralaivola</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Liva Ralaivola</title>
+      <link>http://localhost:1313/authors/liva-ralaivola/</link>
+    </image>
+    
+    <item>
+      <title>Dissimilarity Measure Machines</title>
+      <link>http://localhost:1313/publication/rakotomamonjy-hal-01717940/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rakotomamonjy-hal-01717940/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

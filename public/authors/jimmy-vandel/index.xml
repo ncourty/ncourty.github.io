@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jimmy Vandel | Nicole Paul</title>
+    <link>http://localhost:1313/authors/jimmy-vandel/</link>
+      <atom:link href="http://localhost:1313/authors/jimmy-vandel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jimmy Vandel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Jimmy Vandel</title>
+      <link>http://localhost:1313/authors/jimmy-vandel/</link>
+    </image>
+    
+    <item>
+      <title>SAGA: sparse and geometry-aware non-negative matrix factorization through non-linear local embedding</title>
+      <link>http://localhost:1313/publication/courty-hal-02092380/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/courty-hal-02092380/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAGA: Sparse And Geometry-Aware non-negative matrix factorization through non-linear local embedding</title>
+      <link>http://localhost:1313/publication/courty-hal-01018683/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/courty-hal-01018683/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Earthquakes | Nicole Paul</title>
+    <link>http://localhost:1313/tag/earthquakes/</link>
+      <atom:link href="http://localhost:1313/tag/earthquakes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Earthquakes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Earthquakes</title>
+      <link>http://localhost:1313/tag/earthquakes/</link>
+    </image>
+    
+    <item>
+      <title>Benchmarking housing damage as a driver of population displacement following earthquakes</title>
+      <link>http://localhost:1313/publication/conference-paper/2023-benchmarking-displacement-earthquakes/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2023-benchmarking-displacement-earthquakes/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Presenting slides at the SECED2023 conference.&#34; srcset=&#34;
+               /media/publication/conference-paper/2023_seced_hu3d71e125209e305054d7fc3401cdc01f_347761_07d6f440ee1867dd9d11c9df784ab72c.webp 400w,
+               /media/publication/conference-paper/2023_seced_hu3d71e125209e305054d7fc3401cdc01f_347761_dff7c011d95570ebf2c3ce6ea7f582ad.webp 760w,
+               /media/publication/conference-paper/2023_seced_hu3d71e125209e305054d7fc3401cdc01f_347761_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/publication/conference-paper/2023_seced_hu3d71e125209e305054d7fc3401cdc01f_347761_07d6f440ee1867dd9d11c9df784ab72c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Updates to GEM&#39;s Global Seismic Risk Model</title>
+      <link>http://localhost:1313/publication/conference-paper/2022-updates-global-model/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2022-updates-global-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Potential impact of earthquakes during the 2020 COVID-19 pandemic</title>
+      <link>http://localhost:1313/publication/journal-article/2021-covid-earthquake/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/2021-covid-earthquake/</guid>
+      <description>&lt;h3 id=&#34;example-figure&#34;&gt;Example figure&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-forecasting-of-the-aggregated-number-of-cumulative-covid-19-cases-for-the-three-regions-lisbon-and-the-tagus-valley-alentejo-and-algarve-considering-the-displaced-population-from-the-m57-onshore-left-and-m87-offshore-right-earthquake-scenarios-the-darker-line-represents-the-mean-results-while-the-lighter-lines-represent-individual-simulations&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A plot showing the increase in Covid cases over time due to two different earthquake scenarios affecting Portugal&#34; srcset=&#34;
+               /media/publication/journal-article/2021_covid_earthquake_hu4e822dde8f1944f28c8e9a6c559443d7_893631_2ea97dc72cc6545ac63e5af2aef9ecfc.webp 400w,
+               /media/publication/journal-article/2021_covid_earthquake_hu4e822dde8f1944f28c8e9a6c559443d7_893631_a5624ce5aab938daca595215100b2555.webp 760w,
+               /media/publication/journal-article/2021_covid_earthquake_hu4e822dde8f1944f28c8e9a6c559443d7_893631_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/publication/journal-article/2021_covid_earthquake_hu4e822dde8f1944f28c8e9a6c559443d7_893631_2ea97dc72cc6545ac63e5af2aef9ecfc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;345&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Forecasting of the (aggregated) number of cumulative COVID-19 cases for the three regions (Lisbon and the Tagus Valley, Alentejo, and Algarve) considering the displaced population from the M5.7 onshore (left) and M8.7 offshore (right) earthquake scenarios. The darker line represents the mean results, while the lighter lines represent individual simulations.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimation of post-earthquake recovery on a university campus using REDi methodology</title>
+      <link>http://localhost:1313/publication/conference-paper/2018-recovery-university-campus/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2018-recovery-university-campus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implications of the Vertical Component of Ground Motion on Building Response</title>
+      <link>http://localhost:1313/publication/conference-paper/2018-vertical-ground-motion/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2018-vertical-ground-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting earthquake-induced downtime in buildings: An overview of the state of the art</title>
+      <link>http://localhost:1313/publication/conference-paper/2018-earthquake-downtime-review/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2018-earthquake-downtime-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving estimates of earthquake-induced downtime in individual buildings using the REDi methodology</title>
+      <link>http://localhost:1313/publication/conference-paper/2018-improving-earthquake-downtime/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2018-improving-earthquake-downtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Case Studies of Tall-Building Structural Analyses and Downtime and Loss Assessment for the HayWired Scenario Mainshock</title>
+      <link>http://localhost:1313/publication/report/2018-haywired-downtime/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/report/2018-haywired-downtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is there a basin effect in Mexico city? Validation of three urban lakebed sites using nonlinear site response analysis provides the clue</title>
+      <link>http://localhost:1313/publication/conference-paper/2017-mexico-city-sra/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2017-mexico-city-sra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid Automation of Performance-Based Geo-Seismic Analysis in the Digital Age</title>
+      <link>http://localhost:1313/publication/conference-paper/2017-geoseismic-automation/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2017-geoseismic-automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Insights from Project Implementation of the REDi Rating System</title>
+      <link>http://localhost:1313/publication/conference-paper/2016-practical-insights-redi/</link>
+      <pubDate>Wed, 12 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2016-practical-insights-redi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RemoteSensing | Nicolas Courty Homepage</title>
+    <link>http://localhost:1313/publication-type/remotesensing/</link>
+      <atom:link href="http://localhost:1313/publication-type/remotesensing/index.xml" rel="self" type="application/rss+xml" />
+    <description>RemoteSensing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>RemoteSensing</title>
+      <link>http://localhost:1313/publication-type/remotesensing/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal supervised contrastive learning in remote sensing downstream tasks</title>
+      <link>http://localhost:1313/publication/berg-2024-multimodal/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/berg-2024-multimodal/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-to-end Learning for Early Classification of Time Series</title>
+      <link>http://localhost:1313/publication/russwurm-hal-02174314/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/russwurm-hal-02174314/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

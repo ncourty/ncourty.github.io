@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devis Tuia | Nicole Paul</title>
+    <link>http://localhost:1313/authors/devis-tuia/</link>
+      <atom:link href="http://localhost:1313/authors/devis-tuia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Devis Tuia</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Devis Tuia</title>
+      <link>http://localhost:1313/authors/devis-tuia/</link>
+    </image>
+    
+    <item>
+      <title>Wasserstein Adversarial Regularization for learning with label noise</title>
+      <link>http://localhost:1313/publication/fatras-hal-03371478/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fatras-hal-03371478/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contextual Semantic Interpretability</title>
+      <link>http://localhost:1313/publication/marcos-hal-02972165/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/marcos-hal-02972165/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pushing the right boundaries matters! Wasserstein Adversarial Training for Label Noise</title>
+      <link>http://localhost:1313/publication/damodaran-hal-02174313/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/damodaran-hal-02174313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Multi-source Domain Adaptation under Target Shift</title>
+      <link>http://localhost:1313/publication/redko-hal-02082874/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/redko-hal-02082874/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation</title>
+      <link>http://localhost:1313/publication/damodaran-hal-01956356/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/damodaran-hal-01956356/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Animals in Repeated UAV Image Acquisitions by Matching CNN Activations with Optimal Transport</title>
+      <link>http://localhost:1313/publication/kellenberger-hal-02174328/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kellenberger-hal-02174328/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Data Fusion in Remote Sensing</title>
+      <link>http://localhost:1313/publication/courty-hal-01377234/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/courty-hal-01377234/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>http://localhost:1313/publication/courty-hal-01170705/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/courty-hal-01170705/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Domain Adaptation</title>
+      <link>http://localhost:1313/publication/courty-hal-01377220/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/courty-hal-01377220/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiclass feature learning for hyperspectral image classification: sparse and hierarchical solutions</title>
+      <link>http://localhost:1313/publication/tuia-hal-01103078/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tuia-hal-01103078/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal transport for Domain adaptation</title>
+      <link>http://localhost:1313/publication/courty-hal-01103073/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/courty-hal-01103073/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal transport with Laplacian regularization</title>
+      <link>http://localhost:1313/publication/flamary-hal-01103076/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/flamary-hal-01103076/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A group-lasso active set strategy for multiclass hyperspectral image classification</title>
+      <link>http://localhost:1313/publication/tuia-hal-01063450/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tuia-hal-01063450/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain adaptation with regularized optimal transport</title>
+      <link>http://localhost:1313/publication/courty-hal-01018698/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/courty-hal-01018698/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network-based correlated correspondence for unsupervised domain adaptation of hyperspectral satellite images</title>
+      <link>http://localhost:1313/publication/rebetez-hal-01018700/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rebetez-hal-01018700/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

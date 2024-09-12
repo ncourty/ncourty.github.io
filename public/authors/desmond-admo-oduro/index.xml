@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desmond Admo-Oduro | Nicole Paul</title>
+    <link>http://localhost:1313/authors/desmond-admo-oduro/</link>
+      <atom:link href="http://localhost:1313/authors/desmond-admo-oduro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Desmond Admo-Oduro</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Desmond Admo-Oduro</title>
+      <link>http://localhost:1313/authors/desmond-admo-oduro/</link>
+    </image>
+    
+    <item>
+      <title>Development of a uniform exposure model for the African continent for use in disaster risk assessment</title>
+      <link>http://localhost:1313/publication/journal-article/2022-africa-exposure-model/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/2022-africa-exposure-model/</guid>
+      <description>&lt;h3 id=&#34;example-figure&#34;&gt;Example figure&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-estimated-number-of-residential-buildings-in-africa-aggregated-on-a-uniform-hexagonal-grid-of-05-decimal-degrees&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;A map of the African content where the number of estimated residential buildings is visualized using a uniform hexagonal grid of 0.5 decimal degrees&#34; srcset=&#34;
+               /media/publication/journal-article/2022_africa_exposure_hufcbd29a971daea277433c235a1a02c23_1456035_16e1b3a8293c41daf666442b8e1f7979.webp 400w,
+               /media/publication/journal-article/2022_africa_exposure_hufcbd29a971daea277433c235a1a02c23_1456035_da16718429411f2be70922a43ddb4995.webp 760w,
+               /media/publication/journal-article/2022_africa_exposure_hufcbd29a971daea277433c235a1a02c23_1456035_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/publication/journal-article/2022_africa_exposure_hufcbd29a971daea277433c235a1a02c23_1456035_16e1b3a8293c41daf666442b8e1f7979.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;725&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Estimated number of residential buildings in Africa, aggregated on a uniform hexagonal grid of 0.5 decimal degrees.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;press&#34;&gt;Press&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://eos.org/articles/new-hazard-exposure-model-for-africa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;New Hazard Exposure Model for Africa&amp;rdquo;&lt;/a&gt; by Munyaradzi Makoni for EOS&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

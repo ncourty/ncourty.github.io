@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyperspectral Image Classification ;  Hilbert Schmidt Independence Criterion (HSIC) ;  LASSO ;  Surrogate Kernel (SK). ;  Band Selection ;  Class Separability Measure ;  Feature Selection ;  Kernel Methods | Nicolas Courty Homepage</title>
+    <link>http://localhost:1313/tag/hyperspectral-image-classification-hilbert-schmidt-independence-criterion-hsic-lasso-surrogate-kernel-sk.-band-selection-class-separability-measure-feature-selection-kernel-methods/</link>
+      <atom:link href="http://localhost:1313/tag/hyperspectral-image-classification-hilbert-schmidt-independence-criterion-hsic-lasso-surrogate-kernel-sk.-band-selection-class-separability-measure-feature-selection-kernel-methods/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hyperspectral Image Classification ;  Hilbert Schmidt Independence Criterion (HSIC) ;  LASSO ;  Surrogate Kernel (SK). ;  Band Selection ;  Class Separability Measure ;  Feature Selection ;  Kernel Methods</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Hyperspectral Image Classification ;  Hilbert Schmidt Independence Criterion (HSIC) ;  LASSO ;  Surrogate Kernel (SK). ;  Band Selection ;  Class Separability Measure ;  Feature Selection ;  Kernel Methods</title>
+      <link>http://localhost:1313/tag/hyperspectral-image-classification-hilbert-schmidt-independence-criterion-hsic-lasso-surrogate-kernel-sk.-band-selection-class-separability-measure-feature-selection-kernel-methods/</link>
+    </image>
+    
+    <item>
+      <title> Sparse Hilbert Schmidt Independence Criterion and Surrogate-Kernel-Based Feature Selection for Hyperspectral Image Classification</title>
+      <link>http://localhost:1313/publication/damodaran-hal-01447452/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/damodaran-hal-01447452/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

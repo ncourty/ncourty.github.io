@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mike Mieler | Nicole Paul</title>
+    <link>http://localhost:1313/authors/mike-mieler/</link>
+      <atom:link href="http://localhost:1313/authors/mike-mieler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mike Mieler</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Mike Mieler</title>
+      <link>http://localhost:1313/authors/mike-mieler/</link>
+    </image>
+    
+    <item>
+      <title>Estimation of post-earthquake recovery on a university campus using REDi methodology</title>
+      <link>http://localhost:1313/publication/conference-paper/2018-recovery-university-campus/</link>
+      <pubDate>Fri, 29 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2018-recovery-university-campus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving estimates of earthquake-induced downtime in individual buildings using the REDi methodology</title>
+      <link>http://localhost:1313/publication/conference-paper/2018-improving-earthquake-downtime/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2018-improving-earthquake-downtime/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

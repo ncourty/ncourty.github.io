@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin Kellenberger | Nicole Paul</title>
+    <link>http://localhost:1313/authors/benjamin-kellenberger/</link>
+      <atom:link href="http://localhost:1313/authors/benjamin-kellenberger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjamin Kellenberger</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Benjamin Kellenberger</title>
+      <link>http://localhost:1313/authors/benjamin-kellenberger/</link>
+    </image>
+    
+    <item>
+      <title>DeepJDOT: Deep Joint Distribution Optimal Transport for Unsupervised Domain Adaptation</title>
+      <link>http://localhost:1313/publication/damodaran-hal-01956356/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/damodaran-hal-01956356/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Animals in Repeated UAV Image Acquisitions by Matching CNN Activations with Optimal Transport</title>
+      <link>http://localhost:1313/publication/kellenberger-hal-02174328/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kellenberger-hal-02174328/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Corpetti | Nicole Paul</title>
+    <link>http://localhost:1313/authors/thomas-corpetti/</link>
+      <atom:link href="http://localhost:1313/authors/thomas-corpetti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Corpetti</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Thomas Corpetti</title>
+      <link>http://localhost:1313/authors/thomas-corpetti/</link>
+    </image>
+    
+    <item>
+      <title>Extraction of urban vegetation with Pleiades multiangular images</title>
+      <link>http://localhost:1313/publication/lefebvre-hal-02384677/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lefebvre-hal-02384677/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supervised Planetary Unmixing with Optimal Transport</title>
+      <link>http://localhost:1313/publication/nakhostin-hal-01377236/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nakhostin-hal-01377236/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for Data Fusion in Remote Sensing</title>
+      <link>http://localhost:1313/publication/courty-hal-01377234/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/courty-hal-01377234/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Anomaly Detection and Spectral Unmixing for Planetary Hyperspectral Images</title>
+      <link>http://localhost:1313/publication/nakhostin-hal-01377230/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nakhostin-hal-01377230/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal crowd editing</title>
+      <link>http://localhost:1313/publication/allain-hal-00904008/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/allain-hal-00904008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the AGORASET dataset : assessing for the quality of crowd video analysis methods</title>
+      <link>http://localhost:1313/publication/courty-hal-01102973/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/courty-hal-01102973/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

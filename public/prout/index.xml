@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prouts | Nicolas Courty Homepage</title>
+    <link>http://localhost:1313/prout/</link>
+      <atom:link href="http://localhost:1313/prout/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prouts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Prouts</title>
+      <link>http://localhost:1313/prout/</link>
+    </image>
+    
+    <item>
+      <title>Optimal transport for Domain adaptation</title>
+      <link>http://localhost:1313/prout/courty-hal-01103073/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/prout/courty-hal-01103073/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Using the AGORASET dataset : assessing for the quality of crowd video analysis methods</title>
+      <link>http://localhost:1313/prout/courty-hal-01102973/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/prout/courty-hal-01102973/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

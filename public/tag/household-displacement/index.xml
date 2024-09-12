@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Household Displacement | Nicole Paul</title>
+    <link>http://localhost:1313/tag/household-displacement/</link>
+      <atom:link href="http://localhost:1313/tag/household-displacement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Household Displacement</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Household Displacement</title>
+      <link>http://localhost:1313/tag/household-displacement/</link>
+    </image>
+    
+    <item>
+      <title>Household Displacement and Return in Disasters: A Review</title>
+      <link>http://localhost:1313/publication/journal-article/2024-household-displacement-in-disasters-review/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/2024-household-displacement-in-disasters-review/</guid>
+      <description>&lt;h3 id=&#34;example-figure&#34;&gt;Example figure&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-timeline-representing-displacement-duration-alongside-key-phases-of-disaster-management-and-recovery&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Timeline representing displacement duration alongside key phases of disaster management and recovery.&#34; srcset=&#34;
+               /media/publication/journal-article/2024_displacement_review_hude3715038a14aa4369aff6e2dfdcd6b6_71258_2094e4e9573124a4a9fec5c35dea1cfa.webp 400w,
+               /media/publication/journal-article/2024_displacement_review_hude3715038a14aa4369aff6e2dfdcd6b6_71258_ff3bcb7dffaed3bef74a2945e6085890.webp 760w,
+               /media/publication/journal-article/2024_displacement_review_hude3715038a14aa4369aff6e2dfdcd6b6_71258_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/publication/journal-article/2024_displacement_review_hude3715038a14aa4369aff6e2dfdcd6b6_71258_2094e4e9573124a4a9fec5c35dea1cfa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Timeline representing displacement duration alongside key phases of disaster management and recovery.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Benchmarking housing damage as a driver of population displacement following earthquakes</title>
+      <link>http://localhost:1313/publication/conference-paper/2023-benchmarking-displacement-earthquakes/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/2023-benchmarking-displacement-earthquakes/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Presenting slides at the SECED2023 conference.&#34; srcset=&#34;
+               /media/publication/conference-paper/2023_seced_hu3d71e125209e305054d7fc3401cdc01f_347761_07d6f440ee1867dd9d11c9df784ab72c.webp 400w,
+               /media/publication/conference-paper/2023_seced_hu3d71e125209e305054d7fc3401cdc01f_347761_dff7c011d95570ebf2c3ce6ea7f582ad.webp 760w,
+               /media/publication/conference-paper/2023_seced_hu3d71e125209e305054d7fc3401cdc01f_347761_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://localhost:1313/media/publication/conference-paper/2023_seced_hu3d71e125209e305054d7fc3401cdc01f_347761_07d6f440ee1867dd9d11c9df784ab72c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

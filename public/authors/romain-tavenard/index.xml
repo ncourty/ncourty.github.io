@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Romain Tavenard | Nicole Paul</title>
+    <link>http://localhost:1313/authors/romain-tavenard/</link>
+      <atom:link href="http://localhost:1313/authors/romain-tavenard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Romain Tavenard</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Romain Tavenard</title>
+      <link>http://localhost:1313/authors/romain-tavenard/</link>
+    </image>
+    
+    <item>
+      <title>Time Series Alignment with Global Invariances</title>
+      <link>http://localhost:1313/publication/vayer-hal-02473959/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vayer-hal-02473959/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAD: Match-And-Deform for Time Series Domain Adaptation</title>
+      <link>http://localhost:1313/publication/painblanc-hal-03932463/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/painblanc-hal-03932463/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POT : Python Optimal Transport</title>
+      <link>http://localhost:1313/publication/flamary-hal-03264013/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/flamary-hal-03264013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fused Gromov-Wasserstein Distance for Structured Objects</title>
+      <link>http://localhost:1313/publication/vayer-hal-02971153/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vayer-hal-02971153/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sliced Gromov-Wasserstein</title>
+      <link>http://localhost:1313/publication/vayer-hal-02174309/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vayer-hal-02174309/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-end Learning for Early Classification of Time Series</title>
+      <link>http://localhost:1313/publication/russwurm-hal-02174314/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/russwurm-hal-02174314/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fused Gromov-Wasserstein distance for structured objects: theoretical foundations and mathematical properties</title>
+      <link>http://localhost:1313/publication/vayer-hal-02174316/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vayer-hal-02174316/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Transport for structured data with application on graphs</title>
+      <link>http://localhost:1313/publication/vayer-hal-02174322/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vayer-hal-02174322/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Randomized Nonlinear Component Analysis for Dimensionality Reduction of Hyperspectral Images</title>
+      <link>http://localhost:1313/publication/damodaran-hal-01620604/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/damodaran-hal-01620604/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

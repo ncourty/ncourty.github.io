@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Nicolas Courty Homepage</title>
+    <link>http://localhost:1313/publication-type/2/</link>
+      <atom:link href="http://localhost:1313/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>http://localhost:1313/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Improving molecular representation learning with metric learning-enhanced optimal transport</title>
+      <link>http://localhost:1313/publication/wu-hal-04376133/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wu-hal-04376133/</guid>
+      <description>&lt;p&gt;Molecular representation learning is significant for drug discovery and material synthesis. Training data in computational science are usually limited, requiring predictive models to have predictive capabilities beyond the scope of training samples. Domain adaptation (DA) is a field associated with machine learning that aligns the data distributions of the source (training dataset) and target (test dataset)
+domains by learning a more generalized feature space. In this article, we propose an optimal transport-
+based algorithm named MROT to overcome this DA challenge and improve the generalization capacity
+of predictive models. Our study shows that our MROT framework provides a potential solution for basic
+chemical regression prediction tasks, including chemical property prediction and materials adsorption selection. This work contributes a new idea to achieve the proper transformation from simulated data to experimental data, which play a crucial role in exploring new drugs or materials.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

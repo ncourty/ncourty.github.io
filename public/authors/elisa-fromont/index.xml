@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elisa Fromont | Nicole Paul</title>
+    <link>http://localhost:1313/authors/elisa-fromont/</link>
+      <atom:link href="http://localhost:1313/authors/elisa-fromont/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elisa Fromont</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Elisa Fromont</title>
+      <link>http://localhost:1313/authors/elisa-fromont/</link>
+    </image>
+    
+    <item>
+      <title>Rennes - une IA souveraine au service de la vie publique</title>
+      <link>http://localhost:1313/publication/gravier-hal-03313161/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gravier-hal-03313161/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Relations Spatiales ; Opérateur Laplacien Discret ; Mouvement Capturé ; Mots Clé : Reconstruction De Trajectoires ; Contraintes De Distance | Nicolas Courty Homepage</title>
+    <link>http://localhost:1313/tag/relations-spatiales-operateur-laplacien-discret-mouvement-capture-mots-cle-reconstruction-de-trajectoires-contraintes-de-distance/</link>
+      <atom:link href="http://localhost:1313/tag/relations-spatiales-operateur-laplacien-discret-mouvement-capture-mots-cle-reconstruction-de-trajectoires-contraintes-de-distance/index.xml" rel="self" type="application/rss+xml" />
+    <description>Relations Spatiales ; Opérateur Laplacien Discret ; Mouvement Capturé ; Mots Clé : Reconstruction De Trajectoires ; Contraintes De Distance</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Relations Spatiales ; Opérateur Laplacien Discret ; Mouvement Capturé ; Mots Clé : Reconstruction De Trajectoires ; Contraintes De Distance</title>
+      <link>http://localhost:1313/tag/relations-spatiales-operateur-laplacien-discret-mouvement-capture-mots-cle-reconstruction-de-trajectoires-contraintes-de-distance/</link>
+    </image>
+    
+    <item>
+      <title>Utilisation des relations spatiales pour la reconstruction de trajectoires de marqueurs issues de la capture de mouvement</title>
+      <link>http://localhost:1313/publication/lenaour-hal-01164455/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lenaour-hal-01164455/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

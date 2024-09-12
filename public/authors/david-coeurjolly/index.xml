@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Coeurjolly | Nicole Paul</title>
+    <link>http://localhost:1313/authors/david-coeurjolly/</link>
+      <atom:link href="http://localhost:1313/authors/david-coeurjolly/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Coeurjolly</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>David Coeurjolly</title>
+      <link>http://localhost:1313/authors/david-coeurjolly/</link>
+    </image>
+    
+    <item>
+      <title>Non-Euclidean Sliced Optimal Transport Sampling</title>
+      <link>http://localhost:1313/publication/genest-hal-04481548/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/genest-hal-04481548/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non Euclidean Sliced Optimal Transport Sampling Software</title>
+      <link>http://localhost:1313/publication/genest-hal-04597071-v-1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/genest-hal-04597071-v-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimal Transport ; Domain Adaptation ; Time Series Analysis ; Change Detection ; LIDAR | Nicolas Courty Homepage</title>
+    <link>http://localhost:1313/tag/optimal-transport-domain-adaptation-time-series-analysis-change-detection-lidar/</link>
+      <atom:link href="http://localhost:1313/tag/optimal-transport-domain-adaptation-time-series-analysis-change-detection-lidar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimal Transport ; Domain Adaptation ; Time Series Analysis ; Change Detection ; LIDAR</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_512x512_fill_lanczos_center_3.png</url>
+      <title>Optimal Transport ; Domain Adaptation ; Time Series Analysis ; Change Detection ; LIDAR</title>
+      <link>http://localhost:1313/tag/optimal-transport-domain-adaptation-time-series-analysis-change-detection-lidar/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Transport for Data Fusion in Remote Sensing</title>
+      <link>http://localhost:1313/publication/courty-hal-01377234/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/courty-hal-01377234/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
