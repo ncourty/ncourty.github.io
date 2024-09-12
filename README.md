@@ -1,6 +1,6 @@
 ## General information
 
-This repository has code for my academic website at: [**nicolepaul.io**](http://nicolepaul.io/).
+This repository has code for my academic website at: [**ncourty.github.io**](ncourty.github.io).
 
 The website is built using the Hugo Academic CV Theme (see below), which is deployed and hosted on [Netlify](https://www.netlify.com/).
 
