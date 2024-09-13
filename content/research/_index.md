@@ -1,13 +1,14 @@
 ---
-title: 'Research Activities'
+title: 'Research and Teaching Activities'
 date: 2022-10-24
 type: landing
 ---
 
 <!-- Markdown content -->
-A research statement
+My research interests
 
 ### Community service
+I am regularly reviewing or ACing for the following conferences or journals: NeurIPS, ICML, ICLR, ECML/PKDD, IEEE TPAMI, International Journal of Computer Vision (IJCV), IEEE TGRS, ISPRS Journal of Photogrammetry and Remote Sensing.
 
 ### On-going PhD Students and Post-doc
  - [Paul Berg](https://www.ber.gp/) (PhD 2021--2024) with [Minh-Tan Pham](https://sites.google.com/site/mtanpham89/?pli=1)
