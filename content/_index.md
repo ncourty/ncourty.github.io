@@ -11,6 +11,10 @@ sections:
       title:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+    design:
+     spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '0', '0', '0']
   - block: collection
     id: posts
     content:

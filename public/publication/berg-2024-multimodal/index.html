@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: September 12, 2024 --><html lang="en-us" >
+<!-- Last Published: September 17, 2024 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -378,7 +378,7 @@
     "name": "Nicolas Courty Homepage",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu209de9eb93bbf92fdbefdbfdebe32890_3589_192x192_fill_lanczos_center_3.png"
+      "url": "http://localhost:1313/media/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_192x192_fit_lanczos_3.png"
     }
   },
   "description": "To leverage the large amount of unlabeled data available in remote sensing datasets, self-supervised learning (SSL) methods have recently emerged as an ubiquitous tool to pretrain robust image encoder models from unlabeled images. However, when used in a downstream setting, these models often need to be fine-tuned for a specific task after their pretraining. This fine-tuning still requires labeling information to train a classifier on top of the encoder while also updating the encoder weights. In this letter, we investigate the specific task of multimodal scene classification where a sample is composed of multiple views from multiple heterogeneous satellite sensors. We propose a method to improve the categorical cross-entropy fine-tuning process which is often used to specify the model for this downstream task. Our approach, based on the supervised contrastive (SupCon) learning, uses the label information available to train an image encoder in a contrastive manner from multiple modalities while also training the task-specific classifier online. Such a multimodal SupCon loss helps better align representations from samples coming from multiple sensors but having the same class labels, thus improving the performance of the fine-tuning process. Our experiments on two public datasets including DFC2020 and Meter-ML with Sentinel-1/Sentinel-2 images show a significant gain over the baseline multimodal cross-entropy loss."
@@ -495,6 +495,8 @@
 
 
 
+  
+
 
 <header>
   <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
@@ -502,7 +504,9 @@
 
       
       <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="/">Nicolas Courty Homepage</a>
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_0x70_resize_lanczos_3.png" alt="Nicolas Courty Homepage"
+            
+            ></a>
       </div>
       
 
@@ -515,13 +519,15 @@
 
       
       <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-        <a class="navbar-brand" href="/">Nicolas Courty Homepage</a>
+        <a class="navbar-brand" href="/"><img src="/media/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_0x70_resize_lanczos_3.png" alt="Nicolas Courty Homepage"
+          
+          ></a>
       </div>
       
 
       
       
-      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
 
         
         <ul class="navbar-nav d-md-inline-flex">
@@ -780,6 +786,23 @@
 
         
         
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
         
 
         

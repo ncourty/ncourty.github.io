@@ -15,6 +15,13 @@ You can find a list of some of the softwares and codes available from my researc
 >}}
 To install it, simply `pip install pot`
 
+- [TorchDR](https://github.com/TorchDR/TorchDR) is an open-source dimensionality reduction (DR) library using PyTorch. Its goal is to accelerate the development of new DR methods by providing a common simplified framework. It was mainly created by [Hugues Van Assel](https://huguesva.github.io/), and I am contributing to it.
+
+{{< figure
+    src="torchdr.png"
+    alt="Torch Dimensionality Reduction"
+>}}
+
 
 
 ### Paper codes

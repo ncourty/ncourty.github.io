@@ -39,10 +39,15 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
+    logo:
+      # Logo text
+      text: "Nicolas Courty Homepage"
+      # Logo filename in `assets/media/` folder
+      filename: "logo.png"
     show_language: false
-    show_day_night: false
+    show_day_night: true
     show_search: true
     highlight_active_link: true
 

@@ -55,7 +55,7 @@ highlight_name: true
 ## Biography
 
 <div style="text-align: justify">
-Welcome ! I am a Full Professor at <a href="http://www.univ-ubs.fr"> University Bretagne Sud</a> since 2018. I obtained my PhD degree in 2002 from INSA Rennes and my 'Habilitation à diriger des recherches' in. 2013, on the topic of computer graphics and animation (avatars, crowds), with a specialization in data-driven methods. I now lead the <a href="https://www-obelix.irisa.fr">Obelix</a> team in <a href="https://www.irisa.fr/">IRISA</a>, which research contributions lie at the crossroad of machine learning and Earth Observation. I am an experienced researcher in the domain of machine learning and AI. Among others, I have published several papers in top tier machine learning conferences (NeurIPS, ICLR, ICML, AISTATS, etc.), computer vision (IEEE TPAMI, ECCV, ACCV) and remote sensing (IEEE TGRS, ISPRS journal). From 2014, I developed an expertise in the domain of optimal transport and related applications to machine learning. From 2020, I am the principal invesitgator in an ANR Chair program on AI (OTTOPIA), on the topic of applied optimal transport for Remote Sensing.
+Welcome ! I am a Full Professor at <a href="http://www.univ-ubs.fr"> University Bretagne Sud</a> since 2018. I obtained my PhD degree in 2002 from INSA Rennes and my 'Habilitation à diriger des recherches' in 2013, on the topic of computer graphics and animation (avatars, crowds), with a specialization in data-driven methods. I now lead the <a href="https://www-obelix.irisa.fr">Obelix</a> team at <a href="https://www.irisa.fr/">IRISA</a>, which research contributions lie at the crossroad of machine learning and Earth Observation. I am an experienced researcher in the domain of machine learning and AI. Among others, I have published several papers in top tier machine learning conferences (NeurIPS, ICLR, ICML, AISTATS, etc.), computer vision (IEEE TPAMI, ECCV, ACCV) and remote sensing (IEEE TGRS, ISPRS journal). From 2014, I developed an expertise in the domain of optimal transport and related applications to machine learning. From 2020, I am the principal investigator in an ANR Chair program on AI (OTTOPIA), on the topic of applied optimal transport for Remote Sensing.
 </div>
 </br>
 
@@ -63,3 +63,6 @@ Welcome ! I am a Full Professor at <a href="http://www.univ-ubs.fr"> University 
   - Optimal transport, Statistical learning, kernel methods
   - Manifold and geometric approaches to machine learning
   - Applications to computer graphics, vision and remote sensing
+
+### Code production
+As a computer scientist, I definitely believe in the power of open-source and reproducibility as a basis of science. Though my current activities will not let me hand on code as much as I want to, I still enjoy coding in C++, Cuda kernels or PyTorch. Take a look at the [coding section](code/) to know more.
