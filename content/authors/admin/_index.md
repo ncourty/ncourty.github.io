@@ -16,7 +16,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Professor in Computer Science
+role: Full Professor in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
