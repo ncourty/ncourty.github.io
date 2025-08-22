@@ -35,8 +35,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://x.com/nicolas_courty
-  - icon: twitter
-    icon_pack: fab
+  - icon: university
+    icon_pack: fas
     link: https://bsky.app/profile/ncourty.bsky.social
   - icon: github
     icon_pack: fab
