@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kernel Approximation ; Hyperspectral Image Classification ; Kernel PCA ;  Kernel MNF ;  Nonlinear Component Analysis ;  Random Fourier Feature | Nicolas Courty Homepage</title>
+    <link>http://localhost:1313/tag/kernel-approximation-hyperspectral-image-classification-kernel-pca-kernel-mnf-nonlinear-component-analysis-random-fourier-feature/</link>
+      <atom:link href="http://localhost:1313/tag/kernel-approximation-hyperspectral-image-classification-kernel-pca-kernel-mnf-nonlinear-component-analysis-random-fourier-feature/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kernel Approximation ; Hyperspectral Image Classification ; Kernel PCA ;  Kernel MNF ;  Nonlinear Component Analysis ;  Random Fourier Feature</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_3.png</url>
+      <title>Kernel Approximation ; Hyperspectral Image Classification ; Kernel PCA ;  Kernel MNF ;  Nonlinear Component Analysis ;  Random Fourier Feature</title>
+      <link>http://localhost:1313/tag/kernel-approximation-hyperspectral-image-classification-kernel-pca-kernel-mnf-nonlinear-component-analysis-random-fourier-feature/</link>
+    </image>
+    
+    <item>
+      <title>Randomized Nonlinear Component Analysis for Dimensionality Reduction of Hyperspectral Images</title>
+      <link>http://localhost:1313/publication/damodaran-hal-01620604/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/damodaran-hal-01620604/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

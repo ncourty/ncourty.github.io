@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planetary Hyperspectral Unmixing ; Anomaly ; Detection ; Manifold Learning ; Non-Negative Matrix Factoriza- ; Tion ; Overcomplete Dictionary ; Kernel Based Learning | Nicolas Courty Homepage</title>
+    <link>http://localhost:1313/tag/planetary-hyperspectral-unmixing-anomaly-detection-manifold-learning-non-negative-matrix-factoriza-tion-overcomplete-dictionary-kernel-based-learning/</link>
+      <atom:link href="http://localhost:1313/tag/planetary-hyperspectral-unmixing-anomaly-detection-manifold-learning-non-negative-matrix-factoriza-tion-overcomplete-dictionary-kernel-based-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Planetary Hyperspectral Unmixing ; Anomaly ; Detection ; Manifold Learning ; Non-Negative Matrix Factoriza- ; Tion ; Overcomplete Dictionary ; Kernel Based Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_3.png</url>
+      <title>Planetary Hyperspectral Unmixing ; Anomaly ; Detection ; Manifold Learning ; Non-Negative Matrix Factoriza- ; Tion ; Overcomplete Dictionary ; Kernel Based Learning</title>
+      <link>http://localhost:1313/tag/planetary-hyperspectral-unmixing-anomaly-detection-manifold-learning-non-negative-matrix-factoriza-tion-overcomplete-dictionary-kernel-based-learning/</link>
+    </image>
+    
+    <item>
+      <title>Joint Anomaly Detection and Spectral Unmixing for Planetary Hyperspectral Images</title>
+      <link>http://localhost:1313/publication/nakhostin-hal-01377230/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nakhostin-hal-01377230/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

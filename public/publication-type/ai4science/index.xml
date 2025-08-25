@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI4science | Nicolas Courty Homepage</title>
+    <link>http://localhost:1313/publication-type/ai4science/</link>
+      <atom:link href="http://localhost:1313/publication-type/ai4science/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI4science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu85655fe6f7c9483ff73b3dd154d4087e_26505_300x300_fit_lanczos_3.png</url>
+      <title>AI4science</title>
+      <link>http://localhost:1313/publication-type/ai4science/</link>
+    </image>
+    
+    <item>
+      <title>Neural network time-series classifiers for gravitational-wave searches in single-detector periods</title>
+      <link>http://localhost:1313/publication/trovato-2024-neural/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/trovato-2024-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning individual brains with Fused Unbalanced Gromov-Wasserstein</title>
+      <link>http://localhost:1313/publication/thual-hal-04256161/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/thual-hal-04256161/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving molecular representation learning with metric learning-enhanced optimal transport</title>
+      <link>http://localhost:1313/publication/wu-hal-04376133/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wu-hal-04376133/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
