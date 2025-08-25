@@ -12,4 +12,8 @@ publication: '*Journal of Machine Learning Research (JMLR)*'
 links:
 - name: URL
   url: https://arxiv.org/abs/2403.06560
+
+
+publication_types: [article-journal,"ML"]
+featured: true
 ---
