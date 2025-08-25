@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Distributional Reduction: Unifying Dimensionality Reduction and Clustering with Gromov-Wasserstein</title>
+      <link>http://localhost:1313/publication/assel-2025-distributional/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/assel-2025-distributional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift</title>
       <link>http://localhost:1313/publication/michele-2025-improving/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/michele-2025-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Prototype Hyperbolic Learning Guided by Class Hierarchy</title>
+      <link>http://localhost:1313/publication/berg-2025-hyperbolic/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/berg-2025-hyperbolic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sliced-Wasserstein Distances and Flows on Cartan-Hadamard Manifolds</title>
+      <link>http://localhost:1313/publication/bonet-2025-cat/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bonet-2025-cat/</guid>
       <description></description>
     </item>
     
@@ -133,6 +157,14 @@
       <guid>http://localhost:1313/publication/bonet-2024-sliced/</guid>
       <description>&lt;p&gt;[Preprint]&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Slicing Unbalanced Optimal Transport</title>
+      <link>http://localhost:1313/publication/bonet-2024-slicing/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bonet-2024-slicing/</guid>
+      <description></description>
     </item>
     
     <item>
