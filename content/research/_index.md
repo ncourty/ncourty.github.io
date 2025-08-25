@@ -11,7 +11,6 @@ My research interests
 I am regularly reviewing or ACing for the following conferences or journals: NeurIPS, ICML, ICLR, ECML/PKDD, IEEE TPAMI, International Journal of Computer Vision (IJCV), IEEE TGRS, ISPRS Journal of Photogrammetry and Remote Sensing.
 
 ### On-going PhD Students and Post-doc
- - [Paul Berg](https://www.ber.gp/) (PhD 2021--2024) with [Minh-Tan Pham](https://sites.google.com/site/mtanpham89/?pli=1)
  - [Bjoern Michele](https://github.com/BjoernMichele) (CIFRE PhD 2022--2025) with [Valeo.AI](https://www.valeo.ai)
  - [Aimi Okabayashi](https://www.linkedin.com/in/aimi-okabayashi-107a941b8) (PhD 2024--2027) with [Charlotte Pelletier](https://sites.google.com/site/charpelletier/), [thomas Corpetti](https://tcorpetti.github.io/) and [Nicolas Audebert](https://nicolas.audebert.at/)
  - [Léo Buecher](https://www.linkedin.com/in/l%C3%A9o-buecher-238308152) (PhD 2024--2027) with [Laetitia Chapel](https://people.irisa.fr/Laetitia.Chapel/) and [Lucas Drumetz](https://www.imt-atlantique.fr/fr/personne/lucas-drumetz)
@@ -22,7 +21,7 @@ Recently defended PhD thesis:
 - [Kilian Fatras](https://kilianfatras.github.io/) (PhD 2021) with [Rémi Flamary](https://remi.flamary.com) (Post-doc at MLIA, now at [DreamFold](https://www.dreamfold.ai/))
  - [Clément Bonet](https://clbonet.github.io/) (PhD 2020--2023) with [François Septier](http://web.univ-ubs.fr/lmba/septier/) and [Lucas Drumetz](https://www.imt-atlantique.fr/fr/personne/lucas-drumetz), now at ENSAE/CREST
  - [Quang Huy Tran](https://6ulm.github.io/) (PhD 2021--2024) with [Rémi Flamary](https://remi.flamary.com) and [Karim Lounici]() (CMAP - X)
-
+ - [Paul Berg](https://www.ber.gp/) (PhD 2021--2024) with [Minh-Tan Pham](https://sites.google.com/site/mtanpham89/?pli=1)
 
 ### Recurrent collaborators
 - [Rémi Flamary](https://remi.flamary.com) (CMAP, Ecole Polytechnique)
