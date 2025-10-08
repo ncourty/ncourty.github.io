@@ -1,7 +1,5 @@
 ---
 title: 'Research and Teaching Activities'
-date: 2022-10-24
-type: landing
 ---
 
 <!-- Markdown content -->
@@ -21,8 +19,8 @@ Recently defended PhD thesis:
  - [Clément Bonet](https://clbonet.github.io/) (PhD 2020--2023) with [François Septier](http://web.univ-ubs.fr/lmba/septier/) and [Lucas Drumetz](https://www.imt-atlantique.fr/fr/personne/lucas-drumetz), now at CMAP/Polytechnique X
  - [Quang Huy Tran](https://6ulm.github.io/) (PhD 2021--2024) with [Rémi Flamary](https://remi.flamary.com) and [Karim Lounici]() (CMAP - X)
  - [Paul Berg](https://www.ber.gp/) (PhD 2021--2024) with [Minh-Tan Pham](https://sites.google.com/site/mtanpham89/?pli=1), now postdoctoral researcher at Bern University
- - [Bjoern Michele](https://github.com/BjoernMichele) (CIFRE PhD 2022--2025) with [Valeo.AI](https://www.valeo.ai), now at [NaverLabs](https://europe.naverlabs.com/))
- -
+ - [Bjoern Michele](https://github.com/BjoernMichele) (CIFRE PhD 2022--2025) with [Valeo.AI](https://www.valeo.ai), now at [NaverLabs](https://europe.naverlabs.com/)
+
 ### Recurrent collaborators
 - [Rémi Flamary](https://remi.flamary.com) (CMAP, Ecole Polytechnique)
 - [Devis Tuia](https://sites.google.com/site/devistuia/) (EPFL)

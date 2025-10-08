@@ -1,6 +1,5 @@
 ---
 title: 'Publications (from 2014)'
-type: landing
 view: citation
 cascade:
     highlight_name: true

@@ -1,7 +1,5 @@
 ---
 title: 'Recent & Upcoming Talks'
-date: 2022-10-24
-type: landing
 ---
 
 A (mostly incomplete) list of talks I gave or will give (up to year 2020):

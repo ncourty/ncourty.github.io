@@ -1,7 +1,5 @@
 ---
 title: 'Code & Software production'
-date: 2022-10-24
-type: landing
 ---
 
 You can find a list of some of the softwares and codes available from my research here. If you incorporate it into your research, kindly cite the corresponding paper.
