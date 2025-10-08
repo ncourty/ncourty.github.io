@@ -11,6 +11,8 @@ I am regularly reviewing or ACing for the following conferences or journals: Neu
 ### On-going PhD Students and Post-doc
  - [Aimi Okabayashi](https://www.linkedin.com/in/aimi-okabayashi-107a941b8) (PhD 2024--2027) with [Charlotte Pelletier](https://sites.google.com/site/charpelletier/), [thomas Corpetti](https://tcorpetti.github.io/) and [Nicolas Audebert](https://nicolas.audebert.at/)
  - [Léo Buecher](https://www.linkedin.com/in/l%C3%A9o-buecher-238308152) (PhD 2024--2027) with [Laetitia Chapel](https://people.irisa.fr/Laetitia.Chapel/) and [Lucas Drumetz](https://www.imt-atlantique.fr/fr/personne/lucas-drumetz)
+ - [Matilin Le Beux](https://kh.linkedin.com/in/matilin-le-beux-0310b2181) (PhD 2024--2027) with Sébastien Boyer (Institut Pasteur Cambodge)
+ - [Louis François–Downey](https://au.linkedin.com/in/louis-francois-downey-1680381b9) (PhD 2025--2028) with [Charlotte Pelletier](https://sites.google.com/site/charpelletier/) and [Minh-Tan Pham](https://sites.google.com/site/mtanpham89/?pli=1), in the context of the Axolotl project
  - [Pierre Houédry](https://pierrehouedry.github.io/) (Post-doc starting fall 2024)
 
 Recently defended PhD thesis:
